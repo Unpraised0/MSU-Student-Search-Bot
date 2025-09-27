@@ -1,4 +1,4 @@
-//
+// By Unpraised0
 
 import { Client, GatewayIntentBits, EmbedBuilder } from "discord.js";
 import fetch from "node-fetch";
@@ -141,3 +141,4 @@ client.on("messageCreate", async (message) => {
 });
 
 client.login(TOKEN);
+
